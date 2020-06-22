@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GROCERYLIST</string>
+    <string name="point_symbol">.</string>
+    <string name="dollar_symbol">$</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="qty">Qty</string>
+    <string name="additem">Add Item</string>
+    <string name="price">Price</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
