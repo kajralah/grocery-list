@@ -82,6 +82,7 @@
             android:background="@drawable/edit_text_border"
             android:textColor="@color/black"
             android:layout_marginBottom="20dp"
+            android:hint="Add category"
             android:padding="10dp"
             android:visibility="gone"
             android:inputType="textLongMessage"
